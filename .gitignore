@@ -10,6 +10,8 @@
 
 # production
 /build
+/rapports
+/Farba_Kane_Projet_10_052024
 
 # misc
 .DS_Store
