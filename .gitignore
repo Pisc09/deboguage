@@ -12,6 +12,9 @@
 /build
 /rapports
 
+# files
+aide-support-soutenance.pdf*
+
 # misc
 .DS_Store
 .env.local
